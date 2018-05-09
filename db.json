@@ -1,5 +1,5 @@
 {
-  "images":[
+  "icons":
   {
 	"image": "https://github.com/bmead410/demo/blob/master/missdroid.png"
   }
@@ -15,5 +15,5 @@
   {
 	"image": "https://github.com/bmead410/demo/blob/master/superdroid.png"
   }
-  ]
+  
 }
